@@ -3,8 +3,7 @@
 
  # 适合重装系统后使用：
 
-# .NET运行库：
-[.NET Framework](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework)
+.NET运行库：[.NET Framework](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework)
 
 Visual C++（VC）运行库：[Microsoft Visual C++](https://learn.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
@@ -17,5 +16,10 @@ Visual C++（VC）运行库：[Microsoft Visual C++](https://learn.microsoft.com
 
 压缩软件：[7-Zip](https://www.7-zip.org/)
 
-硬盘测速软件
-[CrystalDiskMar](https://crystalmark.info/en/software/crystaldiskmark/)
+硬盘测速：[CrystalDiskMar](https://crystalmark.info/en/software/crystaldiskmark/)
+（蓝色按钮点进去是历史版本，建议点绿色按钮可以直接下载，有标准版和两个美化版）
+
+硬盘信息：[CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
+（蓝色按钮点进去是历史版本，建议点绿色按钮可以直接下载，有标准版和两个美化版）
+
+更新时间2025/3/12 17点35分
